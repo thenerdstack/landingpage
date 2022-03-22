@@ -14,7 +14,7 @@ function AboutPage(props) {
         size="large"
         backgroundImage=""
         backgroundImageOpacity={1}
-        title="We help you make money"
+        title="We help you make money as nerd stack"
         subtitle="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequatur numquam aliquam tenetur ad amet inventore hic beatae, quas accusantium perferendis sapiente explicabo, corporis totam!"
       />
       <StatsSection
